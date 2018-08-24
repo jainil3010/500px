@@ -1,0 +1,74 @@
+html
+{
+	background-image: linear-gradient(to left bottom, #d93131, #e1418c, #b672d4, #689bf3, #12b6eb);
+	background-repeat: no-repeat;
+
+}
+body{
+	overflow: hidden;
+}
+.content{
+	margin-bottom:800px;
+}
+h1{
+	color: white;
+}
+h3{
+	font-size: 25px;
+	color: white;
+}
+p{
+	font-size: 40px;
+}
+.t1{
+	font-size: 40px;
+
+}
+.profile
+{
+	margin-left: 46%;
+}
+
+.profile .img-circle{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+.uploadicon{
+	margin-left: 46%;
+}
+
+fieldset{
+	width:400px;
+	padding: 30px;
+	border:1px solid white;
+	background-color: 0.3 white;
+	opacity: 0.8;
+	border-radius: 30px;
+}
+.form{
+	margin-left: 37%;
+}
+.txt{
+	margin-right: 10px;
+	width: 300px	;
+	margin-bottom: 5px;
+	height: 10px;
+	border:none;
+	border-radius: 30px;
+	padding:15px; 
+}
+.btn{
+	width: auto;
+	margin-top: 20px;
+	margin-left: 7px; 
+	height: auto;
+	padding:10px;
+	font-size: 20px;
+	border-radius: 30px;
+	cursor: pointer;
+	border:none;
+	color: white;
+	background-color: #0099e5;
+}
+

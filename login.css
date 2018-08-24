@@ -1,0 +1,52 @@
+html
+{
+	background-image: linear-gradient(to left bottom, #d93131, #e1418c, #b672d4, #689bf3, #12b6eb);
+	background-repeat: no-repeat;
+}
+/*body{
+	background-image: linear-gradient(to left bottom, #d93131, #e1418c, #b672d4, #689bf3, #12b6eb);
+	background-repeat: no-repeat;
+}*/
+.content{
+	margin-top: 18%;
+	margin-right:40%;
+	margin-left: 40%;
+	margin-bottom:350px;
+}
+fieldset{
+	width: 300px;
+	
+	padding: 30px;
+	border:1px solid white;
+	background-color: 0.3 white;
+	opacity: 0.8;
+	border-radius: 30px;
+}
+.txt{	
+	margin-right: 17px;
+	width: 95%;
+	margin-bottom: 20px;
+	height: 30px;
+	opacity: 0.6;
+	border-radius: 30px;
+	border:none;
+	padding: 8px; 
+}
+.btn{
+	width: 95%;
+	margin-top: 20px;
+	margin-left: 7px; 
+	height: 40px;
+	padding:10px;
+	opacity: 0.9;
+	font-size: 20px;
+	border-radius: 30px;
+	cursor: pointer;
+	border:none;
+	color: white;
+	background-color: #0099e5;
+}
+legend{
+	font-size: 22px;
+	color: white;
+}
